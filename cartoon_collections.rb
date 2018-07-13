@@ -25,7 +25,7 @@ def find_the_cheese(cheeses)
   cheeses.each do |cheese|
     cheese_types.each do |type|
       if cheese === type
-        return true
+        return cheese
       end
     end
   end
