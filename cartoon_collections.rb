@@ -42,7 +42,7 @@ end
 #  return nil
 #end
 
-# Test dangerous method "collect!"
+# Test dangerous method "collect!" in #summon_captain_planet
 # planet = ["earth", "wind", "fire", "water", "heart"]
 # summon_captain_planet(planet)
 # puts planet
