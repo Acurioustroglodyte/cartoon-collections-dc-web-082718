@@ -32,7 +32,7 @@ end
 #  return nil
 #end
 
-def find_the_cheese_include(cheeses)
+def find_the_cheese(cheeses)
   cheese_types = ["cheddar", "gouda", "camembert"]
   cheeses.each do |cheese|
     if cheese_types.include(cheese)
