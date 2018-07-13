@@ -29,7 +29,7 @@ def find_the_cheese(cheeses)
       end
     end
   end
-  return false
+  return nil
 end
 
 # Test dangerous method "collect!"
