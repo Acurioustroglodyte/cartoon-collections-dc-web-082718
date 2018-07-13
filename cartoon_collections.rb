@@ -23,3 +23,4 @@ end
 # planet = ["earth", "wind", "fire", "water", "heart"]
 # summon_captain_planet(planet)
 # puts planet
+ puts "str".size
